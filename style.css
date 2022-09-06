@@ -1,0 +1,58 @@
+.reprovado{
+    background-color: red;
+}
+.aprovado{
+    background-color: green;
+}
+th{
+    width: 100px;
+}
+table thead th{
+    background-color: gray;
+}
+table tbody th{
+    background-color: rgb(232, 231, 231);
+}
+
+
+
+/*
+.tudo{
+   
+    width: 60px;
+    border: 20px black;
+    padding: 10px;
+    margin: 20px;
+}
+
+div.container {
+    width: 1140px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+}
+
+table thead tr {
+    background-color: red;
+    color: white;
+}
+
+table thead tr th {
+    padding: 5px;
+}
+
+table thead tr th.nome {
+    background-color: darksalmon;
+}
+
+table tbody tr {
+    background-color: aqua;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: blue;
+    color: white;
+}
+*/
